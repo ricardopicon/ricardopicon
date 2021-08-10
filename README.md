@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ricardopicon
+- 👀 I’m interested in Machine Learning, AI, Data Science, Business Analytics & Strategy
+- 🌱 I’m currently learning Statistics and Data Science on MITx
+- 💞️ I’m looking to collaborate on personal/professional projects which require data analysis/engineering and modelling.
+- 📫 How to reach me: email-> rpiconalvaro@gmail.com // phone-> +34 617 859 540
